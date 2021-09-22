@@ -1,4 +1,10 @@
 ###################
+How To Use
+###################
+- clone this repo first
+- import wartegonline.sql to your MySQL or PHPMYADMIN
+
+###################
 What is CodeIgniter
 ###################
 
